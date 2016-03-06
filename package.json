@@ -1,0 +1,27 @@
+{
+  "name": "brightpearl",
+  "version": "1.0.4",
+  "description": "Brightpearl API client with multi-message support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garethsjones/npm_brightpearl.git"
+  },
+  "keywords": [
+    "brightpearl"
+  ],
+  "author": "Gareth Jones",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.5.0",
+    "request": "^2.67.0",
+    "uuid": "^2.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/garethsjones/npm_brightpearl/issues"
+  },
+  "homepage": "https://github.com/garethsjones/npm_brightpearl#readme"
+}
